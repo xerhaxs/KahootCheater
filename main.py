@@ -1,16 +1,21 @@
-# This is a sample Python script.
+#    This is a KahootCheatBot expansion to https://github.com/RealNattawattHongthong/kahoot-cheat KahootCheater. It adds the ability to autoklick the right answer.
+from selenium import webdriver
+from selenium.webdriver import Keys
+from selenium.webdriver.common.by import By
+import time
 
-# Press Umschalt+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# main function
+gameid = '  '
+gamepin = '4755908'
+url = 'https://kahoot.it?pin=' + gamepin + '&refer_method=link'
+nickname = 'Testuser1'
 
+fp = webdriver.FirefoxProfile(profile_directory='/home/jf/.mozilla/firefox/6pgja4fq.default-release')
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Strg+8 to toggle the breakpoint.
+# Provide the path of chromedriver present on your system.
+browser = webdriver.Firefox(fp)
 
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# Send a get request to the url
+browser.get(url)
+time.sleep(2)
+browser.find_element(By.NAME, "nickname").send_keys(nickname, Keys.ENTER)
