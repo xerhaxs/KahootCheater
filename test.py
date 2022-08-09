@@ -1,34 +1,19 @@
-import requests
-import json
-import credentials
-
-def get_kahoot(kahootid):
-    response = requests.get('https://create.kahoot.it/rest/kahoots/{}'.format(kahootid), headers={'content-type' : 'application/json','authorization'}).json()
-
-    questions = []
-
-    if 'error' in response:
-        print("No Kahoot Found!")
-        exit()
-    else:
-        print("FOUND Kahoot titled: '" + response["title"] + "'")
-
-        for i in range(0, len(response["questions"])):
-            currentQuestion = {"question": "", "answer": ""}
-
-            currentQuestion["question"] = response["questions"][i]["question"]
-
-            for j in range(0, len(response["questions"][i]["choices"])):
-                if response["questions"][i]["choices"][j]["correct"] == True:
-                    currentQuestion["answer"] = response["questions"][i]["choices"][j]["answer"]
-
-            questions.append(currentQuestion)
-
-        return questions
+from selenium import webdriver
+from selenium.webdriver import Keys
+from selenium.webdriver.common.by import By
+import time
 
 
-kahootid = input("Enter the quiz id from host URL: ")
+class browser():
 
-questions = get_kahoot(kahootid)
+    def browser(self):
+        # Provide the path of firefox present on your system.
+        fp = webdriver.FirefoxProfile(profile_directory='/home/jf/.mozilla/firefox/6pgja4fq.default-release')
+        # Run Firefox
+        browser = webdriver.Firefox(fp)
 
-print("\nAll Questions: " + str(questions))
+    def hi(self):
+        print('hi')
+
+test = browser()
+test.browser()
