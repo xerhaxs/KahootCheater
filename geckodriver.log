@@ -1095,3 +1095,735 @@ Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
 console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
 1660031846269	Marionette	INFO	Stopped listening on port 40763
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660037035981	geckodriver	INFO	Listening on 127.0.0.1:59775
+1660037036964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45013" "-no-remote" "-profile" "/tmp/rust_mozprofilePCIl6F"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660037037604	Marionette	INFO	Marionette enabled
+1660037037607	Marionette	INFO	Listening on port 41833
+WebDriver BiDi listening on ws://localhost:45013
+1660037037771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45013/devtools/browser/b4863517-ade6-4b12-90aa-d9ad00cea995
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660037042531	Marionette	INFO	Stopped listening on port 41833
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660037126708	geckodriver	INFO	Listening on 127.0.0.1:36685
+1660037127184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36857" "-no-remote" "-profile" "/tmp/rust_mozprofileL7rNys"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660037127556	Marionette	INFO	Marionette enabled
+1660037127558	Marionette	INFO	Listening on port 37417
+WebDriver BiDi listening on ws://localhost:36857
+1660037127643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36857/devtools/browser/9bb3d853-085f-420e-9c4c-167b2159e354
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660037130824	Marionette	INFO	Stopped listening on port 37417
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660038200691	geckodriver	INFO	Listening on 127.0.0.1:50859
+1660038201829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33729" "-no-remote" "-profile" "/tmp/rust_mozprofileE5AUAm"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660038202662	Marionette	INFO	Marionette enabled
+1660038202665	Marionette	INFO	Listening on port 34537
+WebDriver BiDi listening on ws://localhost:33729
+1660038202832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33729/devtools/browser/cb8e658b-c0c0-4a20-920d-35b461c8adf3
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660038224898	Marionette	INFO	Stopped listening on port 34537
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660038227232	geckodriver	INFO	Listening on 127.0.0.1:48683
+1660038227847	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59393" "-no-remote" "-profile" "/tmp/rust_mozprofilerg2nYx"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660038228402	Marionette	INFO	Marionette enabled
+1660038228406	Marionette	INFO	Listening on port 43577
+WebDriver BiDi listening on ws://localhost:59393
+1660038228536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59393/devtools/browser/4d0eb14c-f06d-448b-b0ec-b6dac8e1ee9e
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660038232998	Marionette	INFO	Stopped listening on port 43577
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660038291378	geckodriver	INFO	Listening on 127.0.0.1:60319
+1660038291989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55965" "-no-remote" "-profile" "/tmp/rust_mozprofileldTClO"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660038292503	Marionette	INFO	Marionette enabled
+1660038292506	Marionette	INFO	Listening on port 38413
+WebDriver BiDi listening on ws://localhost:55965
+1660038292754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55965/devtools/browser/c2bd5801-f89e-40a0-9ae6-0a43948b04c6
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(/tmp/rust_mozprofileldTClO/thumbnails) because it does not exist
+1660038884597	geckodriver	INFO	Listening on 127.0.0.1:46143
+1660038885085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33719" "-no-remote" "-profile" "/tmp/rust_mozprofilea1Wh8o"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660038885547	Marionette	INFO	Marionette enabled
+1660038885550	Marionette	INFO	Listening on port 41615
+WebDriver BiDi listening on ws://localhost:33719
+1660038885663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33719/devtools/browser/7b3f915c-49ee-4a84-b979-07ac0d0b89e5
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: moz-extension://2afe5a98-1e55-46ac-9135-89818075bf76/js/vapi-client.js, line 230: InvalidStateError: An exception was thrown
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: moz-extension://2afe5a98-1e55-46ac-9135-89818075bf76/js/vapi-client.js, line 230: InvalidStateError: An exception was thrown
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://create.kahoot.it"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660038890579	Marionette	INFO	Stopped listening on port 38413
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://create.kahoot.it"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660038895150	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(/tmp/rust_mozprofilea1Wh8o/thumbnails) because it does not exist
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660039292899	Marionette	INFO	Stopped listening on port 41615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660039440801	geckodriver	INFO	Listening on 127.0.0.1:52303
+1660039441311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36055" "-no-remote" "-profile" "/tmp/rust_mozprofile66xnQe"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660039441819	Marionette	INFO	Marionette enabled
+1660039441824	Marionette	INFO	Listening on port 40723
+WebDriver BiDi listening on ws://localhost:36055
+1660039441954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36055/devtools/browser/a813842e-b052-46ae-9c01-56e0f31cb166
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: moz-extension://2afe5a98-1e55-46ac-9135-89818075bf76/js/vapi-client.js, line 230: InvalidStateError: An exception was thrown
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: moz-extension://2afe5a98-1e55-46ac-9135-89818075bf76/js/vapi-client.js, line 230: InvalidStateError: An exception was thrown
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://create.kahoot.it"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://create.kahoot.it"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660039472873	Marionette	INFO	Stopped listening on port 40723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660039474690	geckodriver	INFO	Listening on 127.0.0.1:56863
+1660039475233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59231" "-no-remote" "-profile" "/tmp/rust_mozprofileBBFS18"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660039475676	Marionette	INFO	Marionette enabled
+1660039475678	Marionette	INFO	Listening on port 35993
+WebDriver BiDi listening on ws://localhost:59231
+1660039475828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59231/devtools/browser/630fac0e-6740-41f6-aad8-81610bb2c884
+Port.onMessage event fired while context is inactive.
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: moz-extension://2afe5a98-1e55-46ac-9135-89818075bf76/js/vapi-client.js, line 230: InvalidStateError: An exception was thrown
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: moz-extension://2afe5a98-1e55-46ac-9135-89818075bf76/js/vapi-client.js, line 230: InvalidStateError: An exception was thrown
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://create.kahoot.it"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://create.kahoot.it"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660039503094	geckodriver	INFO	Listening on 127.0.0.1:49019
+1660039503555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49361" "-no-remote" "-profile" "/tmp/rust_mozprofileZNyPQu"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660039503977	Marionette	INFO	Marionette enabled
+1660039503979	Marionette	INFO	Listening on port 39267
+WebDriver BiDi listening on ws://localhost:49361
+1660039504161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49361/devtools/browser/35572480-ea01-4370-aad3-219fd6cc5b03
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660039596601	Marionette	INFO	Stopped listening on port 39267
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660039598103	Marionette	INFO	Stopped listening on port 35993
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660039611117	geckodriver	INFO	Listening on 127.0.0.1:42847
+1660039611861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36179" "-no-remote" "-profile" "/tmp/rust_mozprofile4zki53"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660039612855	Marionette	INFO	Marionette enabled
+1660039612858	Marionette	INFO	Listening on port 43991
+WebDriver BiDi listening on ws://localhost:36179
+1660039613051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36179/devtools/browser/d20c43b7-f207-4816-a870-28d8d7aa73b9
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: moz-extension://2afe5a98-1e55-46ac-9135-89818075bf76/js/vapi-client.js, line 230: InvalidStateError: An exception was thrown
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: moz-extension://2afe5a98-1e55-46ac-9135-89818075bf76/js/vapi-client.js, line 230: InvalidStateError: An exception was thrown
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://create.kahoot.it"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://create.kahoot.it"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660039625748	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1660039643568	geckodriver	INFO	Listening on 127.0.0.1:46699
+1660039644289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57175" "-no-remote" "-profile" "/tmp/rust_mozprofile0ASkXG"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660039645295	Marionette	INFO	Marionette enabled
+1660039645300	Marionette	INFO	Listening on port 40699
+WebDriver BiDi listening on ws://localhost:57175
+1660039645477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57175/devtools/browser/3ef7bc48-9675-4aca-95aa-c1c2a8fcb972
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660039755854	Marionette	INFO	Stopped listening on port 40699
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660039756929	Marionette	INFO	Stopped listening on port 43991
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660039758469	geckodriver	INFO	Listening on 127.0.0.1:40803
+1660039759259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51489" "-no-remote" "-profile" "/tmp/rust_mozprofile7dNHQW"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660039760276	Marionette	INFO	Marionette enabled
+1660039760280	Marionette	INFO	Listening on port 46191
+WebDriver BiDi listening on ws://localhost:51489
+1660039760480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51489/devtools/browser/c497e7d3-5cfe-40e5-ba28-6a6ce9c8dec8
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: moz-extension://2afe5a98-1e55-46ac-9135-89818075bf76/js/vapi-client.js, line 230: InvalidStateError: An exception was thrown
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: moz-extension://2afe5a98-1e55-46ac-9135-89818075bf76/js/vapi-client.js, line 230: InvalidStateError: An exception was thrown
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://create.kahoot.it"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://create.kahoot.it"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660039773306	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1660039788397	geckodriver	INFO	Listening on 127.0.0.1:43009
+1660039789264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42551" "-no-remote" "-profile" "/tmp/rust_mozprofileAPflob"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660039790784	Marionette	INFO	Marionette enabled
+1660039790791	Marionette	INFO	Listening on port 45863
+WebDriver BiDi listening on ws://localhost:42551
+1660039791079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42551/devtools/browser/9f359978-061c-40ce-a655-1ff1d2bbb8e1
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660039837707	Marionette	INFO	Stopped listening on port 45863
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660039843389	Marionette	INFO	Stopped listening on port 46191
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660039847603	geckodriver	INFO	Listening on 127.0.0.1:43171
+1660039848751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50751" "-no-remote" "-profile" "/tmp/rust_mozprofileIiYxgg"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660039849671	Marionette	INFO	Marionette enabled
+1660039849675	Marionette	INFO	Listening on port 35629
+WebDriver BiDi listening on ws://localhost:50751
+1660039849850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50751/devtools/browser/416c2430-04e7-40b0-b8be-199f34ec38e2
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: moz-extension://2afe5a98-1e55-46ac-9135-89818075bf76/js/vapi-client.js, line 230: InvalidStateError: An exception was thrown
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://create.kahoot.it"
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 111: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: moz-extension://2afe5a98-1e55-46ac-9135-89818075bf76/js/vapi-client.js, line 230: InvalidStateError: An exception was thrown
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://create.kahoot.it"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1660039863443	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1660039876449	geckodriver	INFO	Listening on 127.0.0.1:39619
+1660039877678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50221" "-no-remote" "-profile" "/tmp/rust_mozprofilesXlOvm"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660039878437	Marionette	INFO	Marionette enabled
+1660039878440	Marionette	INFO	Listening on port 35033
+WebDriver BiDi listening on ws://localhost:50221
+1660039878629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50221/devtools/browser/ea32935b-d3bb-40a8-93f7-0e84cf509168
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://kahoot.it"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660039950774	Marionette	INFO	Stopped listening on port 35629
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660039954330	Marionette	INFO	Stopped listening on port 35033
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660039954407	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+[2022-08-09T10:12:34Z ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "Datei oder Verzeichnis nicht gefunden" })) }
+1660040966834	geckodriver	INFO	Listening on 127.0.0.1:49655
+1660040967521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44063" "-no-remote" "-profile" "/tmp/rust_mozprofile2e3KuG"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660040968584	Marionette	INFO	Marionette enabled
+1660040968587	Marionette	INFO	Listening on port 45561
+WebDriver BiDi listening on ws://localhost:44063
+1660040968719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44063/devtools/browser/956fcae9-5716-49fb-90cc-e6f4c8babf62
+1660040998411	geckodriver	INFO	Listening on 127.0.0.1:38993
+1660040999021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52261" "-no-remote" "-profile" "/tmp/rust_mozprofile4sGJGF"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660040999859	Marionette	INFO	Marionette enabled
+1660040999862	Marionette	INFO	Listening on port 34063
+WebDriver BiDi listening on ws://localhost:52261
+1660041000086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52261/devtools/browser/e7cc51ce-dab9-4055-ad9e-853cec4ac122
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660041015299	Marionette	INFO	Stopped listening on port 34063
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660041016206	Marionette	INFO	Stopped listening on port 45561
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660041547762	geckodriver	INFO	Listening on 127.0.0.1:58995
+1660041548346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40617" "-no-remote" "-profile" "/tmp/rust_mozprofileD9KKf3"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660041549347	Marionette	INFO	Marionette enabled
+1660041549351	Marionette	INFO	Listening on port 40067
+WebDriver BiDi listening on ws://localhost:40617
+1660041549545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40617/devtools/browser/a5000253-f463-4d69-90b3-7473402c6003
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660041592919	Marionette	INFO	Stopped listening on port 40067
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660041783341	geckodriver	INFO	Listening on 127.0.0.1:45899
+1660041783898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48893" "-no-remote" "-profile" "/tmp/rust_mozprofileUS0dx8"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660041785017	Marionette	INFO	Marionette enabled
+1660041785020	Marionette	INFO	Listening on port 41555
+WebDriver BiDi listening on ws://localhost:48893
+1660041785261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48893/devtools/browser/f4986821-f9d9-4852-acb6-b49beb9b1c89
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660041811134	Marionette	INFO	Stopped listening on port 41555
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660041812881	geckodriver	INFO	Listening on 127.0.0.1:50481
+1660041813420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50079" "-no-remote" "-profile" "/tmp/rust_mozprofile7fPr2I"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660041814051	Marionette	INFO	Marionette enabled
+1660041814054	Marionette	INFO	Listening on port 43241
+WebDriver BiDi listening on ws://localhost:50079
+1660041814276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50079/devtools/browser/64e11631-6e65-4990-b1f5-58e39b5dde12
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660041822380	Marionette	INFO	Stopped listening on port 43241
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660044484245	geckodriver	INFO	Listening on 127.0.0.1:53599
+1660044484778	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45113" "-no-remote" "-profile" "/tmp/rust_mozprofile0DLYbZ"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660044485943	Marionette	INFO	Marionette enabled
+1660044485949	Marionette	INFO	Listening on port 41571
+WebDriver BiDi listening on ws://localhost:45113
+1660044486197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1660658000861	geckodriver	INFO	Listening on 127.0.0.1:41863
+1660658002139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56627" "-no-remote" "-profile" "/tmp/rust_mozprofileW5dOyA"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660658002561	Marionette	INFO	Marionette enabled
+1660658002564	Marionette	INFO	Listening on port 44057
+WebDriver BiDi listening on ws://localhost:56627
+1660658002732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56627/devtools/browser/9779c3bf-044f-4545-b289-3dc4352e892a
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1660658113786	geckodriver	INFO	Listening on 127.0.0.1:43839
+1660658114672	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48275" "-no-remote" "-profile" "/tmp/rust_mozprofileQjnPTY"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660658115092	Marionette	INFO	Marionette enabled
+1660658115095	Marionette	INFO	Listening on port 34641
+WebDriver BiDi listening on ws://localhost:48275
+1660658115278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48275/devtools/browser/80be2bdc-394c-46f9-a6da-d9f40bd3dbc4
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1660658130118	geckodriver	INFO	Listening on 127.0.0.1:35577
+1660658130866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52781" "-no-remote" "-profile" "/tmp/rust_mozprofileju5USR"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660658131251	Marionette	INFO	Marionette enabled
+1660658131253	Marionette	INFO	Listening on port 42705
+WebDriver BiDi listening on ws://localhost:52781
+1660658131335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52781/devtools/browser/853e5e16-b330-4ae9-a847-cd16fa11ddd7
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660658135521	Marionette	INFO	Stopped listening on port 42705
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1660658138795	Marionette	INFO	Stopped listening on port 34641
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661154749730	geckodriver	INFO	Listening on 127.0.0.1:45393
+1661154750953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44757" "-no-remote" "-profile" "/tmp/rust_mozprofileLlzbtb"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661154751494	Marionette	INFO	Marionette enabled
+1661154751497	Marionette	INFO	Listening on port 44831
+WebDriver BiDi listening on ws://localhost:44757
+1661154751594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44757/devtools/browser/8ad987e3-ce71-42bf-a662-e93e4b4b53b2
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1661154882088	geckodriver	INFO	Listening on 127.0.0.1:52813
+1661154883277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32897" "-no-remote" "-profile" "/tmp/rust_mozprofileWoSsqe"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661154883633	Marionette	INFO	Marionette enabled
+1661154883635	Marionette	INFO	Listening on port 33019
+WebDriver BiDi listening on ws://localhost:32897
+1661154883714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:32897/devtools/browser/46a9b52e-f551-4fbe-b916-17c0315f5abf
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661154944833	Marionette	INFO	Stopped listening on port 33019
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661154985936	geckodriver	INFO	Listening on 127.0.0.1:48695
+1661154987157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48911" "-no-remote" "-profile" "/tmp/rust_mozprofiledXFdBa"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661154987548	Marionette	INFO	Marionette enabled
+1661154987550	Marionette	INFO	Listening on port 33497
+WebDriver BiDi listening on ws://localhost:48911
+1661154987629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48911/devtools/browser/35972db1-fd81-4764-8ab5-e7a73a79627d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+1661155045821	geckodriver	INFO	Listening on 127.0.0.1:57619
+1661155047054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36861" "-no-remote" "-profile" "/tmp/rust_mozprofileMNOlbC"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661155047459	Marionette	INFO	Marionette enabled
+1661155047461	Marionette	INFO	Listening on port 35935
+WebDriver BiDi listening on ws://localhost:36861
+1661155047664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36861/devtools/browser/2154707e-0193-4330-b581-92658f119447
+JavaScript error: resource://gre/modules/XULStore.jsm, line 68: Error: Can't find profile directory.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661155054171	Marionette	INFO	Stopped listening on port 35935
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661155062561	Marionette	INFO	Stopped listening on port 33497
+1661155082647	geckodriver	INFO	Listening on 127.0.0.1:40929
+1661155083888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51867" "-no-remote" "-profile" "/tmp/rust_mozprofile0yiRLp"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661155084276	Marionette	INFO	Marionette enabled
+1661155084278	Marionette	INFO	Listening on port 38629
+WebDriver BiDi listening on ws://localhost:51867
+1661155084360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51867/devtools/browser/7c5ea13c-bef9-4f0f-a6ff-2ead266b276a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://msd.tfk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://msd.tfk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 709: WebGL context was lost.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 709: WebGL context was lost.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661155098973	Marionette	INFO	Stopped listening on port 38629
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661155187700	geckodriver	INFO	Listening on 127.0.0.1:39897
+1661155188698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44083" "-no-remote" "-profile" "/tmp/rust_mozprofileNdaKYq"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661155189076	Marionette	INFO	Marionette enabled
+1661155189078	Marionette	INFO	Listening on port 35273
+WebDriver BiDi listening on ws://localhost:44083
+1661155189159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44083/devtools/browser/ba6129a4-2010-4e0c-93f8-9920d81eb81b
+1661155264978	geckodriver	INFO	Listening on 127.0.0.1:43489
+1661155266001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57225" "-no-remote" "-profile" "/tmp/rust_mozprofilenYN4zK"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661155266394	Marionette	INFO	Marionette enabled
+1661155266396	Marionette	INFO	Listening on port 37021
+WebDriver BiDi listening on ws://localhost:57225
+1661155266478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57225/devtools/browser/b8b27147-1da1-4300-b86e-52b1ce6681d9
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661155279493	Marionette	INFO	Stopped listening on port 37021
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661155282100	Marionette	INFO	Stopped listening on port 35273
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661155711128	geckodriver	INFO	Listening on 127.0.0.1:50503
+1661155712148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47813" "-no-remote" "-profile" "/tmp/rust_mozprofileqCTgql"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661155712582	Marionette	INFO	Marionette enabled
+1661155712585	Marionette	INFO	Listening on port 41495
+WebDriver BiDi listening on ws://localhost:47813
+1661155712678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47813/devtools/browser/8705c4e2-2da0-4b17-8289-2a88ae09b3ec
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://msd.tfk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://msd.tfk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661155721604	Marionette	INFO	Stopped listening on port 41495
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661155773463	geckodriver	INFO	Listening on 127.0.0.1:33847
+1661155773966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55245" "-no-remote" "-profile" "/tmp/rust_mozprofileIk3xxo"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661155774429	Marionette	INFO	Marionette enabled
+1661155774431	Marionette	INFO	Listening on port 43955
+WebDriver BiDi listening on ws://localhost:55245
+1661155774509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIk3xxo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55245/devtools/browser/95d48dcd-0d87-4e0e-91e8-3bb9eee84626
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://msd.tfk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://msd.tfk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 709: WebGL context was lost.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 709: WebGL context was lost.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661155785261	Marionette	INFO	Stopped listening on port 43955
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661155847385	geckodriver	INFO	Listening on 127.0.0.1:41691
+1661155847888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49907" "-no-remote" "-profile" "/tmp/rust_mozprofiledttVGh"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661155848403	Marionette	INFO	Marionette enabled
+1661155848406	Marionette	INFO	Listening on port 34011
+WebDriver BiDi listening on ws://localhost:49907
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+1661155848586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledttVGh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49907/devtools/browser/0e28b5f0-2b2e-46b2-b024-f9a080bf6098
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661155853406	Marionette	INFO	Stopped listening on port 34011
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661155860156	geckodriver	INFO	Listening on 127.0.0.1:39337
+1661155860659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55807" "-no-remote" "-profile" "/tmp/rust_mozprofileLadCmU"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661155861117	Marionette	INFO	Marionette enabled
+1661155861119	Marionette	INFO	Listening on port 35425
+WebDriver BiDi listening on ws://localhost:55807
+1661155861197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLadCmU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55807/devtools/browser/7e0ab5fd-7389-45e6-8ad0-4015a1963860
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://msd.tfk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://msd.tfk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661155864154	Marionette	INFO	Stopped listening on port 35425
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+1661155941875	geckodriver	INFO	Listening on 127.0.0.1:38535
+1661155942375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38185" "-no-remote" "-profile" "/tmp/rust_mozprofileIvb2NS"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661155942826	Marionette	INFO	Marionette enabled
+1661155942829	Marionette	INFO	Listening on port 40763
+WebDriver BiDi listening on ws://localhost:38185
+1661155942908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIvb2NS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38185/devtools/browser/bbcea90e-4e1f-4fb4-9059-f115fd3400cc
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661155949811	Marionette	INFO	Stopped listening on port 40763
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661155952751	geckodriver	INFO	Listening on 127.0.0.1:42613
+1661155953246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46015" "-no-remote" "-profile" "/tmp/rust_mozprofileRvAmaO"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661155953709	Marionette	INFO	Marionette enabled
+1661155953711	Marionette	INFO	Listening on port 38917
+WebDriver BiDi listening on ws://localhost:46015
+1661155953791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRvAmaO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46015/devtools/browser/d748516e-2eac-41e2-9ce5-4642bb064f22
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://msd.tfk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://msd.tfk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661155956725	Marionette	INFO	Stopped listening on port 38917
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+1661156944174	geckodriver	INFO	Listening on 127.0.0.1:54467
+1661156944668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33707" "-no-remote" "-profile" "/tmp/rust_mozprofileIc17CW"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661156945189	Marionette	INFO	Marionette enabled
+1661156945192	Marionette	INFO	Listening on port 34941
+WebDriver BiDi listening on ws://localhost:33707
+1661156945367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIc17CW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33707/devtools/browser/061f2a81-4f4a-415c-b6e6-eaa61cdd4b93
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1661156952342	Marionette	INFO	Stopped listening on port 34941
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1661156956929	geckodriver	INFO	Listening on 127.0.0.1:41157
+1661156957433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39119" "-no-remote" "-profile" "/tmp/rust_mozprofilevYNhuD"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1661156957864	Marionette	INFO	Marionette enabled
+1661156957866	Marionette	INFO	Listening on port 43047
+WebDriver BiDi listening on ws://localhost:39119
+1661156958025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevYNhuD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39119/devtools/browser/0dcfde93-daaa-4765-b5ba-2cd04e0302db
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://msd.tfk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://msd.tfk"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1661156960838	Marionette	INFO	Stopped listening on port 43047
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
